@@ -145,6 +145,11 @@ a:hover {
     letter-spacing: 0.03em;
 }
 
+.specialty__name a {
+    font-weight: 500;
+    letter-spacing: 0.03em;
+}
+
 .content__description {
     font-weight: 700;
     letter-spacing: 0.03em;
