@@ -124,6 +124,8 @@ a:hover {
     margin-bottom: 5rem;
     font-size: 28px;
     line-height: 2.8rem;
+    border-bottom: 2px;
+    solid: #ccc;
 }
 
 .content__hello-img {
@@ -140,8 +142,15 @@ a:hover {
     margin-top: 5px;
 }
 
+.content__name {
+    border-bottom: 2px;
+    solid: #ccc;
+}
+
 .specialty__name {
     font-size: 10px;
+    border-bottom: 2px;
+    solid: #ccc;
 }
 
 .content__name a {
